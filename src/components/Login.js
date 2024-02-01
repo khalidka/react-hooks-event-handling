@@ -1,3 +1,10 @@
+/*
+ onSubmit
+
+Whenever you're working with <form> elements, handling the submit event is a good way to interact with all the data from the form after it's been submitted.
+
+Here's a quick example: */
+
 import React from "react";
 
 function Login() {
